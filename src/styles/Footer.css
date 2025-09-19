@@ -1,6 +1,6 @@
 .footer{
 
-    background-color: rgb(31, 115, 31);
+    background-color: rgba(64, 195, 255, 0.849);
     padding: 5vh 2vw 0 2vw;
 
 }
@@ -8,13 +8,16 @@
 .footer h3{
     
     font-family: 'Whisper', cursive;
-    color: aliceblue;
+    color: snow;
     font-size: 2.3rem;
     margin: 0;
     padding-left: 2vw;
+    font-style: italic;
+    font-variant: small-caps;
 }
 
 .footer hr{
+    
 
 
 }
@@ -50,5 +53,5 @@
     margin: 0;
     text-align: center;
     padding: 2vh 0;
-    color: rgb(182, 182, 182);
+    color:red;
 }

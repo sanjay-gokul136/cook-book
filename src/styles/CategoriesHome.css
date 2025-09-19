@@ -6,7 +6,7 @@
 
 .popular-categories-body{
 
-    background-color: rgba(236, 255, 228, 0.199);
+    background-color: skyblue;
     padding: 5vh 0;
 }
 
@@ -15,7 +15,7 @@
     margin: 0;
     font-size: 1.6rem;
     font-weight: 500;
-    color: rgb(35, 209, 35);
+    color: rgba(6, 119, 194, 0.829);
 }
 
 .popular-categories-body p{
@@ -23,7 +23,7 @@
     margin: 0 0 5vh 0;
     width: 40%;
     margin-left: 30%;
-    color: rgb(135, 135, 135);
+    color: snow;
 }
 
 .popular-categories{
@@ -72,8 +72,8 @@
 }
 
 .popular-category span p{
-    margin: 0;
-    color: rgb(90, 88, 88);
+    margin: 0.1;
+    color: snow;
     font-size: 0.8rem;
     text-align: left;
 }
@@ -86,7 +86,7 @@
 .popular-dishes-body{
     
     padding: 5vh 0 10vh 0;
-    background-color: rgba(236, 255, 228, 0.845);
+    background-color: skyblue
 
 }
 
@@ -95,7 +95,7 @@
     margin: 0;
     font-size: 1.6rem;
     font-weight: 500;
-    color: rgb(35, 209, 35);
+    color:snow;
 
 }
 

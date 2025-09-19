@@ -15,7 +15,7 @@
 .hero-text .hero-line{
     height: 3px;
     width: 10vw;
-    background-color: rgb(35, 209, 35);;
+    background-color: skyblue;
 
 }
 
@@ -40,7 +40,7 @@
     transition: color 0.8s ease;
     cursor: pointer;
     border-radius: 0.3rem;
-    border: 1.5px solid #908f8f;
+    border: 1.5px solid snow;
     font-weight: 600;
     font-size: 0.9rem;
     margin-top: 3vh;

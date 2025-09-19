@@ -6,15 +6,15 @@
     width: 100%;
     position: fixed;
     z-index: 100;
-    background-color: #fff;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    background-color: #11d7fa;
+    box-shadow: snow;
 }
 
 .Navbar h3{
     padding-left: 4vw;
     font-family: 'Whisper', cursive;
     font-size: 2.3rem;
-    color: rgb(35, 209, 35);
+    color:snow;
     cursor: pointer;
 }
 
@@ -24,6 +24,13 @@
     align-items: center;
     padding-right: 3vw;
     gap: 30px;
+}
+.nav-icon{
+    width: 40px;
+    height: fit-content;
+    vertical-align: middle;
+    cursor: crosshair;
+    
 }
 
 .Navbar ul{
@@ -37,28 +44,31 @@
 .Navbar ul li{
     list-style: none;
     cursor: pointer;
-    color: #807e7e;
+    color:snow;
 }
 
 .Navbar ul li:hover{
-    color: #000;
+    color:red;
+    
 }
 
 .Navbar ul Link{
     list-style: none;
     cursor: pointer;
-    color: #807e7e;
+    color: snow;
 }
 
 .Navbar ul Link:hover{
-    color: #000;
+    color: red;
 }
 
 .nav-search{
     display: flex;
     align-items: center;
-    border: 1px solid #3f3f3faf;
+    border: 1px solid snow;
     padding: 3px;
+    color: snow;
+    background-color: transparent;
     border-radius: 2rem;
 }
 
@@ -69,7 +79,7 @@
 }
 
 .nav-search-icon{
-    color: #807e7e;
+    color:snow;
     padding-left: 5px;
 }
 
@@ -84,9 +94,9 @@
 .nav-search button{
     border-radius: 2rem;
     padding: 0 10px;
-    border: none;
-    background-color: rgb(102, 110, 102);
-    color: aliceblue;
+    border: cyan;
+    background-color: skyblue;
+    color: snow;
     height: 4vh;
     cursor: pointer;
 }

@@ -1,9 +1,9 @@
 import React, { useEffect } from 'react'
 import '../styles/CategoriesHome.css'
-import heroImg1 from '../images/hero-img1.png'
-import heroImg2 from '../images/hero-img2.png'
-import heroImg3 from '../images/hero-img3.png'
-import heroImg4 from '../images/hero-img4.png'
+import heroImg1 from '../images/Biriyani.jpg'
+import heroImg2 from '../images/Greens.jpg'
+import heroImg3 from '../images/seafood.jpg'
+import heroImg4 from '../images/Pastha.jpg'
 
 import axios from 'axios'
 import { useNavigate } from 'react-router-dom'
@@ -46,7 +46,7 @@ const CategoriesHome = () => {
     <div className='home-categories-container' id='popular'>
 
       <div className="popular-categories-body">
-        <h3>Most Popular Categories</h3>
+        <h3> <i>Heat of The wORLD fOODS Come And See The Popular Foods</i></h3>
         <p>Be sure not to miss out the categories of these most popular categories. Enjoy trying them out!</p>
 
         {categories.length > 0 ? 

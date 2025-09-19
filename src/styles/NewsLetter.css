@@ -24,7 +24,7 @@
 
 .newsletter-text .food-icon{
     font-size: 3.5rem;
-    color: rgb(35, 209, 35);
+    color:skyblue;
 }
 
 .newsletter-text span{
@@ -68,12 +68,12 @@
 
 .newsletter-input span .mail-icon{
 
-    color: rgb(35, 209, 35);
+    color: skyblue;
 }
 
 .newsletter-input span input{
     height: 8vh;
-    border: none;
+    border: snow;
     width: 90%;
 }
 
@@ -87,7 +87,7 @@
     height: 8vh;
     background-color: #000;
     border: 2px solid #000;
-    color: aliceblue;
+    color: snow;
     border-radius: 0.2rem;
     cursor: pointer;
 }
@@ -98,11 +98,11 @@
     display: flex;
     align-items: start;
     gap: 5px;
-    color: #8f8f8f;
+    color: skyblue;
 }
 
 .newsletter-input-body p .tick-icon{
 
     font-size: 1.2rem;
-    color: rgb(35, 209, 35);
+    color:skyblue;
 }

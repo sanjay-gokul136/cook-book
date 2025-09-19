@@ -13,7 +13,7 @@
 
     width: 98%;
     margin-left: 1%;
-    height: 85vh;
+    height: 80vh;
     border-radius: 0.7rem;
 }
 
@@ -30,7 +30,7 @@
     box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
     position: relative;
     top: -15vh;
-    background-color: #fff;
+    background-color: skyblue;
     padding: 4vh 2vw;
     border-radius: 0.6rem;
 }
@@ -52,8 +52,8 @@
 }
 
 .recipie-header .recipie-specials p{
-    border: 1px solid rgb(35, 209, 35);
-    color: rgb(35, 209, 35);
+    border: 1px solid cyan;
+    color: rgb(22, 198, 221);
     padding: 5px 20px;
     border-radius: 2rem;
     font-size: 0.7rem;
@@ -107,7 +107,7 @@
     padding-bottom: 1vh;
     font-size: 1.3rem;
     font-weight: 500;
-    color: rgb(23, 162, 23);
+    color: rgb(23, 153, 162);
 }
 
 .ingredients{

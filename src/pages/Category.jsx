@@ -35,11 +35,11 @@ const navigate = useNavigate()
             <div className='categorypage-head-options' >
               <p>Other popular categories:</p>
               <span>
-                <button onClick={()=>{ navigate(`/category/Chicken`); fetchItems('Chicken')} } >Chicken</button>
-                <button onClick={()=> {navigate(`/category/Vegetarian`); fetchItems('Vegetarian')}}>Vegetarian</button>
-                <button onClick={()=> {navigate(`/category/Starter`); fetchItems('Starter')}}>Starter"</button>
-                <button onClick={()=> {navigate(`/category/Seafood`); fetchItems('Seafood')}}>Seafood</button>
-                <button onClick={()=> {navigate(`/category/Dessert`); fetchItems('Dessert')}}>Dessert</button>
+                <button onClick={()=>{ navigate(`/category/Chicken`); fetchItems('Chicken')} } >Chicken🍗</button>
+                <button onClick={()=> {navigate(`/category/Vegetarian`); fetchItems('Vegetarian')}}>Vegetarian🥔🥕</button>
+                <button onClick={()=> {navigate(`/category/Starter`); fetchItems('Starter')}}>Starter🍟</button>
+                <button onClick={()=> {navigate(`/category/Seafood`); fetchItems('Seafood')}}>Seafood🐠</button>
+                <button onClick={()=> {navigate(`/category/Dessert`); fetchItems('Dessert')}}>Dessert🍦</button>
               </span>
             </div>
         </div>
